@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-10T00:12:23 IST" name="Default suite" finished-at="2024-04-10T00:12:42 IST" duration-ms="18902">
+    <groups>
+    </groups>
+    <test started-at="2024-04-10T00:12:23 IST" name="Default test" finished-at="2024-04-10T00:12:42 IST" duration-ms="18902">
+      <class name="clearQuoteTestClasses.VerifyDamageHeatmaps">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:clearQuoteTestClasses.VerifyDamageHeatmaps@4f2b503c]" started-at="2024-04-10T00:12:23 IST" name="openBrowser" finished-at="2024-04-10T00:12:29 IST" duration-ms="6066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="VerifyDamageHeatmapsByImageUpload()[pri:0, instance:clearQuoteTestClasses.VerifyDamageHeatmaps@4f2b503c]" started-at="2024-04-10T00:12:29 IST" name="VerifyDamageHeatmapsByImageUpload" finished-at="2024-04-10T00:12:41 IST" duration-ms="12591" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyDamageHeatmapsByImageUpload -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:clearQuoteTestClasses.VerifyDamageHeatmaps@4f2b503c]" started-at="2024-04-10T00:12:41 IST" name="closeBrowser" finished-at="2024-04-10T00:12:42 IST" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- clearQuoteTestClasses.VerifyDamageHeatmaps -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
